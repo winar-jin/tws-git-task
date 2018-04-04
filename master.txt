@@ -1,1 +1,2 @@
 Hello master.txt
+This is the second commit's content
